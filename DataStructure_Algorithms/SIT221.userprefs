@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{65B1B259-11C3-4D52-8EB0-942228907D76}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataStructures_Algorithms/Project2/BackendService.cs">
+    <Files>
+      <File FileName="Runner/Project01_Task02.cs" Line="101" Column="16" />
+      <File FileName="Runner/Runner05_lecture1.cs" Line="23" Column="1" />
+      <File FileName="Runner/Program.cs" Line="20" Column="22" />
+      <File FileName="DataStructures_Algorithms/Project1/Task01/Vector.cs" Line="22" Column="1" />
+      <File FileName="Runner/Project01_Task01.cs" Line="66" Column="1" />
+      <File FileName="DataStructures_Algorithms/Project1/Task02/OperationEnum.cs" Line="14" Column="3" />
+      <File FileName="Runner/Data/Project01/SetA.txt" Line="1" Column="1" />
+      <File FileName="Runner/Data/Project01/SetB.txt" Line="2" Column="2" />
+      <File FileName="DataStructures_Algorithms/Project1/Task02/SetClass.cs" Line="211" Column="4" />
+      <File FileName="Runner/Data/Project01/Set_U.txt" Line="1" Column="1" />
+      <File FileName="Runner/Project2.cs" Line="39" Column="4" />
+      <File FileName="DataStructures_Algorithms/Project2/BackendService.cs" Line="90" Column="4" />
+      <File FileName="DataStructures_Algorithms/Project2/POI.cs" Line="5" Column="9" />
+      <File FileName="DataStructures_Algorithms/Project2/Edge.cs" Line="17" Column="1" />
+      <File FileName="DataStructures_Algorithms/Project2/NavigationDetails.cs" Line="10" Column="13" />
+      <File FileName="DataStructures_Algorithms/Project2/DeviceMessage.cs" Line="8" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mabdel/Downloads/SIT221 Project1/Runner/Project01_Task01.cs" line="66" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Runner PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

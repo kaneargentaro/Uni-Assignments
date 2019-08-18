@@ -1,0 +1,62 @@
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/Runner/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/Runner/bin/Debug/Runner.exe.config
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/Runner/bin/Debug/Runner.exe.mdb
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/Runner/bin/Debug/Runner.pdb
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/Runner/bin/Debug/Runner.exe
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/Runner/obj/Debug/Runner.exe
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/Runner/obj/Debug/Runner.exe.mdb
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/Runner/obj/Debug/Runner.pdb
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/Runner/bin/Debug/DataStructures_Algorithms.dll
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/Runner/bin/Debug/DataStructures_Algorithms.dll.mdb
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/Runner/bin/Debug/DataStructures_Algorithms.pdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/Runner/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/Runner/bin/Debug/Runner.exe.config
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/Runner/bin/Debug/Runner.exe.mdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/Runner/bin/Debug/Runner.pdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/Runner/bin/Debug/Runner.exe
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/Runner/obj/Debug/Runner.exe
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/Runner/obj/Debug/Runner.exe.mdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/Runner/obj/Debug/Runner.pdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/Runner/bin/Debug/DataStructures_Algorithms.dll
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/Runner/bin/Debug/DataStructures_Algorithms.dll.mdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/Runner/bin/Debug/DataStructures_Algorithms.pdb
+/Users/mabdel/Downloads/SIT221 Project1/Runner/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/Runner.exe.config
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/Runner.exe.mdb
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/Runner.pdb
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/Runner.exe
+/Users/mabdel/Downloads/SIT221 Project1/Runner/obj/Debug/Runner.exe
+/Users/mabdel/Downloads/SIT221 Project1/Runner/obj/Debug/Runner.exe.mdb
+/Users/mabdel/Downloads/SIT221 Project1/Runner/obj/Debug/Runner.pdb
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/DataStructures_Algorithms.dll
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/DataStructures_Algorithms.dll.mdb
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/DataStructures_Algorithms.pdb
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/YC.QuickGraph.dll
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/DotParser.dll
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/FSharp.Core.dll
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/YC.RNGLRParser.dll
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/AST.Common.dll
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/FsLexYacc.Runtime.dll
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/YC.RNGLRCommon.dll
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/FSharpx.Collections.Experimental.dll
+/Users/mabdel/Downloads/SIT221 Project1/Runner/bin/Debug/FSharpx.Core.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/Runner.exe.config
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/Runner.exe.mdb
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/Runner.pdb
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/Runner.exe
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/obj/Debug/Runner.exe
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/obj/Debug/Runner.exe.mdb
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/obj/Debug/Runner.pdb
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/DataStructures_Algorithms.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/DataStructures_Algorithms.dll.mdb
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/DataStructures_Algorithms.pdb
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/YC.QuickGraph.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/DotParser.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/FSharp.Core.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/YC.RNGLRParser.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/AST.Common.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/FsLexYacc.Runtime.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/YC.RNGLRCommon.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/FSharpx.Collections.Experimental.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/Runner/bin/Debug/FSharpx.Core.dll
