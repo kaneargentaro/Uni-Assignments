@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Visual Studio Projects\\Uni Assignments\\EasyCatalog\\EasyCatalog\\EasyCatalog.csproj": {}
+  },
+  "projects": {
+    "E:\\Visual Studio Projects\\Uni Assignments\\EasyCatalog\\EasyCatalog\\EasyCatalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Visual Studio Projects\\Uni Assignments\\EasyCatalog\\EasyCatalog\\EasyCatalog.csproj",
+        "projectName": "EasyCatalog",
+        "projectPath": "E:\\Visual Studio Projects\\Uni Assignments\\EasyCatalog\\EasyCatalog\\EasyCatalog.csproj",
+        "packagesPath": "C:\\Users\\kane\\.nuget\\packages\\",
+        "outputPath": "E:\\Visual Studio Projects\\Uni Assignments\\EasyCatalog\\EasyCatalog\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
