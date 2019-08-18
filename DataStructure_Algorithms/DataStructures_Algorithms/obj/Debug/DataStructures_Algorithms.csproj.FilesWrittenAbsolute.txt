@@ -1,0 +1,60 @@
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.dll.mdb
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.pdb
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.dll
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.dll
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.dll.mdb
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.pdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.dll
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.dll.mdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.pdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.dll.mdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.pdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.dll.mdb
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.pdb
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.dll.mdb
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.pdb
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/FSharp.Core.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/FSharpx.Core.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/FSharpx.Collections.Experimental.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/DotParser.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.Data.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.FSA.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.FST.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.Glee.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.Graphviz.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.Petri.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/YC.QuickGraphFS.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/YC.RNGLRParser.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/AST.Common.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/FsLexYacc.Runtime.dll
+/Users/mabdel/Downloads/SIT221 Project1/DataStructures_Algorithms/bin/Debug/YC.RNGLRCommon.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.dll.mdb
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.pdb
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.dll.mdb
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.pdb
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/FSharp.Core.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/FSharpx.Core.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/FSharpx.Collections.Experimental.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/DotParser.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.Data.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.FSA.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.FST.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.Glee.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.Graphviz.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/YC.QuickGraph.Petri.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/YC.QuickGraphFS.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/YC.RNGLRParser.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/AST.Common.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/FsLexYacc.Runtime.dll
+/Work/Teaching/SIT221/2016/Assignments/Project 2/Template/DataStructures_Algorithms/bin/Debug/YC.RNGLRCommon.dll
